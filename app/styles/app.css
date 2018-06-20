@@ -1,0 +1,25 @@
+.contentBox {
+	margin-top: 20px;
+}
+
+.sidebar {
+	padding: 50px 10px;
+	border-right: 1px solid skyblue;
+	height: 88vh;
+	
+}
+
+.content {
+	padding: 50px 10px;
+}
+
+.sidebar-link {
+  color: skyblue;
+  text-align: center;
+  padding: 5px;
+}
+
+.sidebar-link:hover {
+  color: blue;
+  text-decoration: blue underline;
+}
